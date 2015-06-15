@@ -68,11 +68,11 @@
     <Content Include="css\default.css" />
     <Content Include="packages.config" />
     <Content Include="Scripts\CommonClient.js" />
-    <Content Include="Scripts\jquery-2.0.0.intellisense.js" />
-    <Content Include="Scripts\jquery-2.0.0.js" />
-    <Content Include="Scripts\jquery-2.0.0.min.js" />
-    <Content Include="Scripts\jquery-2.0.0.min.map" />
     <Content Include="Scripts\hubs.js" />
+    <Content Include="Scripts\jquery-2.1.4.intellisense.js" />
+    <Content Include="Scripts\jquery-2.1.4.js" />
+    <Content Include="Scripts\jquery-2.1.4.min.js" />
+    <Content Include="Scripts\jquery-2.1.4.min.map" />
     <None Include="Microsoft.AspNet.SignalR.Client.WindowsStoreJavaScript.Samples_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
